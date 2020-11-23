@@ -30,7 +30,7 @@
 <br />
 <br />
 
-https://github-readme-stats.vercel.app/api?username=MehmedEmre&show_icons=true&theme=radical
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=MehmedEmre&show_icons=true&theme=radical)
 
 
 [linkedin]: https://www.linkedin.com/in/mehmedemreakdin/
