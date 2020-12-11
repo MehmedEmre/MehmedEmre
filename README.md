@@ -9,6 +9,7 @@
 ### Connect with me :
 
 [<img style="float-right" align="left" alt="Mehmed Emre AKDİN | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img style="float-right" align="left" alt="Mehmed Emre AKDİN | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/1200px-Medium_logo_Monogram.svg.png" />][Medium]
 
 <br />
 
@@ -34,5 +35,6 @@
 
 
 [linkedin]: https://www.linkedin.com/in/mehmedemreakdin/
+[Medium]: https://medium.com/@mehmedemreakdin
 
 
