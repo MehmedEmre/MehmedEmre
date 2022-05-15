@@ -1,4 +1,4 @@
-### Hi there, I'm Mehmed 👋
+### Hi there, I'm Mehmed Emre 👋
 
 ## I'm a software developer and computer engineer!!
 
